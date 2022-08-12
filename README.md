@@ -1,5 +1,5 @@
 # 0811
-<font color="yellow"><b>08.11.(목) JAVA 수업</b></font conlor>
+<font color="yellow"><b>08.11.(목) JAVA 수업</b></font>
 
 Set에서는 hashSet가 treeSet이 있다. 전자는 반복되는 배열을 제거하고 후자는 배열을 오름차순으로 출력한다.
 List는 Vector, ArrayList, Stack이 있다.
